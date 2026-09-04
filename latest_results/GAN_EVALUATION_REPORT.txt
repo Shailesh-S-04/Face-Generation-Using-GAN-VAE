@@ -1,0 +1,28 @@
+BASIC GAN EVALUATION REPORT
+============================================================
+
+Image Resolution : 128x128
+Latent Dimension : 128
+Training Images  : 30000
+Epochs           : 30
+Batch Size       : 32
+
+TRAINING METRICS
+------------------------------------------------------------
+Final Generator Loss      : 4.495222
+Final Discriminator Loss  : 0.600166
+Minimum Generator Loss    : 3.273938
+Minimum Discriminator Loss: 0.600166
+
+DISCRIMINATOR EVALUATION
+------------------------------------------------------------
+Real Image Accuracy       : 0.1221
+Fake Image Accuracy       : 0.9990
+Overall Accuracy          : 0.5605
+
+GENERATED IMAGE STATISTICS
+------------------------------------------------------------
+Mean : -0.136438
+Std  : 0.584781
+Min  : -1.000000
+Max  : 0.999996

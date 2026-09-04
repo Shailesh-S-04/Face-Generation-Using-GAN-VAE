@@ -1,0 +1,2 @@
+Final Generator Loss,Final Discriminator Loss,Minimum Generator Loss,Minimum Discriminator Loss,Maximum Generator Loss,Maximum Discriminator Loss,Real Image Accuracy,Fake Image Accuracy,Overall Discriminator Accuracy,Generated Mean,Generated Std,Generated Min,Generated Max,Evaluation Images
+4.4952221680094615,0.6001655898646331,3.2739379026210425,0.6001655898646331,4.533111978938511,1.0000719474499355,0.1220703125,0.9990234375,0.560546875,-0.13643823564052582,0.5847805738449097,-1.0,0.9999962449073792,1000
